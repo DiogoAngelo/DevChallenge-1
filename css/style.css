@@ -132,6 +132,7 @@ header {
     }
     .menu-burger {
         margin-right: 50px;
+        cursor: pointer;
     }
     .menu-fechar {
         position: absolute;
